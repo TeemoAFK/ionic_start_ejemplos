@@ -1,0 +1,7 @@
+{
+  "name": "ej3",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
